@@ -1,0 +1,13 @@
+type: marketplace
+title: TestGit
+language: English
+summary: testing git submission
+programming_language: Java
+content:
+  - lesson1
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_1_8
+solutions_hidden: true
+vendor:
+  name: Linda Seiter

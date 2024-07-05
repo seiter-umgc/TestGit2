@@ -1,0 +1,30 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 70
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 70
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFPaI3p5a7/mw8hcrxajxtH8=
+        selected: false
+        status: Failed
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Failed
+feedback:
+  message: Incorrect
+  time: "Fri, 05 Jul 2024 12:55:50 UTC"
+  expected: |
+    Java!
+  actual: <no output>
+record: -1
